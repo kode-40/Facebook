@@ -1,0 +1,1 @@
+<h1>ini halaman ke 2</h1><?php /**PATH C:\Users\Christoper Lim\Herd\Facebook\resources\views/second.blade.php ENDPATH**/ ?>
