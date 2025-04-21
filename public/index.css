@@ -1,0 +1,8 @@
+aside .sidebar-link-kiri {
+    transition: ease-in-out 300ms;
+}
+
+aside .sidebar-link-kiri:hover {
+    background-color: rgba(128, 128, 128, 0.2);
+    
+}

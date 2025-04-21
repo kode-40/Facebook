@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    align-items:center;
+    height: 20vh;
+    margin: 0;
+    background-color: #f4f4f4;
+  }
+.required {
+    color: red;
+    left: 405px;
+    position: absolute;
+}
